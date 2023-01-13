@@ -1,1 +1,1 @@
-# arrays-n-struct for C++
+# practice-cpp
