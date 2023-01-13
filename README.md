@@ -1,1 +1,1 @@
-# one-dimensional-array
+# arrays-n-struct for C++
